@@ -1,0 +1,9 @@
+timestamp,temperature,humidity,soil_moisture,co2,light,temperature_ok,humidity_ok,soil_moisture_ok,co2_ok,temp_delta,anomaly_rule,temp_z,anomaly_z,iso_anom,anomaly_final,matched_rules
+2025-09-12 07:00:00,27.14,65.64,47.17,339.83,997.4,True,True,True,False,1.2899999999999991,False,0.9092313790190211,False,True,True,iso
+2025-09-13 05:00:00,30.31,64.46,46.62,351.07,338.37,False,True,True,False,0.759999999999998,False,1.4694441281775836,False,True,True,iso
+2025-09-16 08:00:00,20.28,76.95,45.54,485.37,431.07,True,True,True,True,0.16000000000000014,False,-0.303090216951875,False,True,True,iso
+2025-09-16 16:00:00,19.08,79.27,45.4,488.2,761.19,False,True,True,True,0.629999999999999,False,-0.515158134614423,False,True,True,iso
+2025-09-16 17:00:00,18.55,77.43,45.84,489.3,794.13,False,True,True,True,0.5299999999999976,False,-0.6088214649153809,False,True,True,iso
+2025-09-18 04:00:00,13.38,86.43,46.1,526.42,379.15,False,False,True,True,0.25,False,-1.5224807435115228,False,True,True,iso
+2025-09-27 02:00:00,16.33,78.91,49.15,342.45,986.61,False,True,True,False,0.40000000000000213,False,-1.001147112591094,False,True,True,iso
+2025-09-27 04:00:00,16.54,80.49,50.29,345.46,998.26,False,False,True,False,0.060000000000002274,False,-0.9640352270001482,False,True,True,iso
