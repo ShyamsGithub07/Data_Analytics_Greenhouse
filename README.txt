@@ -10,4 +10,11 @@ Guidelines to Use the Script:
 3.  The pipeline will generate cleaned data, anomaly reports, visualizations, forecast outputs, and an auto-generated Markdown report.
 
 Conclusion of Project: 
-The pipeline performed efficiently, in that it cleans and organizes raw sensor data for proper analysis. The anomalies across temperature, humidity, soil moisture, CO₂ and light were detected using rule-based, statistical methods, and machine learning (support vector) at...
+1. The whole process of the data pipeline is depicted as one of the most important steps, as 
+2. it clears the raw data that contain sensors' information and also organizes it in a way that can be used for further analysis.
+3. Rule-based approaches, statistics and machine learning methods are deployed to spot anomalies in temperature, humidity, soil moisture, CO₂ and light.
+4. KPIs act as a mirror reflecting the conditions that are very often in optimal ranges.
+5. The light and temperature areas has been connected through a cross-correlation analysis done by the researchers.
+6. The forecasting predicts that the coming week would have certain temperature trends which can help the manager to keep the environment management proactive.
+7. Greenhouse optimization is supported by the combination of visualizations and automated reports that enable fast and easy decision-making.
+
